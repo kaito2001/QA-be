@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nhom5.blogonline.apiblogonline.ApiBlogOnlineApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.358 s - in com.nhom5.blogonline.apiblogonline.ApiBlogOnlineApplicationTests
